@@ -2,4 +2,4 @@
 
 Ascii Star Wars running in container
 
-`docker run -ti --rm `
+`docker run -ti --rm ivoklimsa/hvezdnevalky:latest`
